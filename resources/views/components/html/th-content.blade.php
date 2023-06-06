@@ -1,1 +1,0 @@
-<th class="text-center">{!!$title!!}</th>

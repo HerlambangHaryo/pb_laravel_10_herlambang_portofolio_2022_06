@@ -1,1 +1,0 @@
-<thead class="text-center">
